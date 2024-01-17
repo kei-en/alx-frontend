@@ -1,7 +1,7 @@
 # 0x01. Developer tools
 
 <p align="center">
-    <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/0872ca9b19e11650e355.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240117T104752Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=42a2726bcc5f8f37fe91e51f8727a9efc963dda92c3028652a811b1011720e71"
+    <img src="./project-meme.jpeg"
         alt=""
         width="300"
         style="padding: 10px"
